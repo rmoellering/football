@@ -1,0 +1,49 @@
+
+
+graph mvp
+	total score over the season
+	page > service > page
+
+
+angular
+	https://angular.io/tutorial
+
+	node.js 
+		https://nodejs.org/en/
+		installed 10.15.0
+
+		had access error with - npm install -g @angular/cli
+			https://docs.npmjs.com/resolving-eacces-permissions-errors-when-installing-packages-globally
+
+google charts
+	https://developers.google.com/chart/
+
+all documentation should have a date, god dammit
+
+register app with yahoo
+	https://developer.yahoo.com/apps/MMKA6350/
+
+My AppsFantasyFootballResults2018
+
+App ID
+	MMKA6350
+Client ID (Consumer Key)
+	dj0yJmk9eldRRnhpcjFIMXBmJnM9Y29uc3VtZXJzZWNyZXQmc3Y9MCZ4PTg4
+Client Secret (Consumer Secret)
+	ca455c34fd8627b6afd52ba92ba85f0ca8d2e959
+
+App ID
+	THpHoM4m
+Client ID (Consumer Key)
+	dj0yJmk9OFo1eXl6a3gwaUJRJnM9Y29uc3VtZXJzZWNyZXQmc3Y9MCZ4PTdk
+Client Secret (Consumer Secret)
+	5f9baa59f29cdb36fd43381df46aaa499c8cf5ac
+
+yahoo api scopes
+	https://developer.yahoo.com/oauth2/guide/yahoo_scopes/#scope-identifiers=
+
+yahoo app registration
+	https://developer.yahoo.com/apps/
+
+yahoo fantasy sports
+	https://developer.yahoo.com/fantasysports/guide/
